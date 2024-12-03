@@ -1,0 +1,13 @@
+.d-flex{
+  display: flex;
+  align-items: center;
+ 
+}
+
+.p-2{
+  margin-left: 2rem;
+}
+
+.tempbar{
+  padding: 0.5rem;
+}
